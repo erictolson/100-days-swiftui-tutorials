@@ -18,3 +18,12 @@ https://user-images.githubusercontent.com/91225947/198140358-1b34c356-fda2-47f0-
 https://user-images.githubusercontent.com/91225947/198143936-3b149814-f426-466e-88d3-770970fae187.mov
 
 <br></br>
+
+<b>Project 5: Word Scramble</b> - This app randomly pulls 8 letter words from a JSON file. The user then enters words that can be created from that 8 letter word and generates a score.
+
+https://user-images.githubusercontent.com/91225947/198147833-d3de71c0-1083-45ee-bec5-b808ab104b8c.mov
+
+<br></br>
+
+
+
