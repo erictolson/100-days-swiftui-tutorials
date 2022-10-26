@@ -26,3 +26,8 @@ https://user-images.githubusercontent.com/91225947/198148118-b0692ebb-99ac-4d0c-
 <br></br>
 
 
+<b>Project 7: iExpense</b> - With this app, a user can track their expenses and the data will persist with @AppStorage.
+
+https://user-images.githubusercontent.com/91225947/198149004-e61f71de-def2-415a-8d71-2ca46788c00b.mov
+
+
