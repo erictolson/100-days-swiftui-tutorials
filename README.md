@@ -13,3 +13,8 @@ https://user-images.githubusercontent.com/91225947/198140358-1b34c356-fda2-47f0-
 
 <br></br>
 
+<b>Project 4: BetterRest</b> - This app leverages maching learning (CoreML) to automatically tell the user when to go to bed based on wake up time, desired sleep amount, and coffee intake. Please note these recommendations are arbitrarily determined and do not mean anything.
+
+https://user-images.githubusercontent.com/91225947/198143936-3b149814-f426-466e-88d3-770970fae187.mov
+
+<br></br>
