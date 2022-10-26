@@ -30,4 +30,7 @@ https://user-images.githubusercontent.com/91225947/198148118-b0692ebb-99ac-4d0c-
 
 https://user-images.githubusercontent.com/91225947/198149004-e61f71de-def2-415a-8d71-2ca46788c00b.mov
 
+<b>Project 8: iExpense</b> - This multi-view app utilizes NagivationLink to display json data about Apollo missions.
+
+https://user-images.githubusercontent.com/91225947/198150216-b9e8109c-2f5f-4536-b777-f4696bd74693.mov
 
