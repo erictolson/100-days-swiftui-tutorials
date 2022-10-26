@@ -40,4 +40,7 @@ https://user-images.githubusercontent.com/91225947/198151748-d1869b78-fa55-4880-
 
 <br></br>
 
+<b>Project 11: Bookwarm</b> - This book rating app utilizes CoreData for data persistence. 
+
+https://user-images.githubusercontent.com/91225947/198152593-a39ed5dd-8e78-488a-818b-029ddcb8fe89.mov
 
