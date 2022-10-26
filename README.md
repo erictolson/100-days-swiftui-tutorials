@@ -5,6 +5,7 @@ These projects are the result of following Paul Hudson's "100 Days of SwiftUI" t
 
 https://user-images.githubusercontent.com/91225947/198138538-6e2cc56a-cb3c-4349-9613-b475b7fcbfcf.mov
 
+
 <b>Project 2: Guess the Flag</b> - This is an educational app in which the user must select the correct flag of the given country.
 
 https://user-images.githubusercontent.com/91225947/198140358-1b34c356-fda2-47f0-b6a4-aeff4a5014aa.mov
