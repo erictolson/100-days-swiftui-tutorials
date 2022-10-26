@@ -2,5 +2,6 @@
 These projects are the result of following Paul Hudson's "100 Days of SwiftUI" tutorial. Please note, these projects are the result of 'follow-along' tutorials and are almost entirely the work of Paul Hudson, modestly customized by myself as part of the tutorial program. See Paul's project files <a href="https://github.com/twostraws/HackingWithSwift/tree/main/SwiftUI" target="_blank">here</a>. For 'original' work that resulted from this program, please see the individual 100 Days of Swift UI 'milestone' projects in my repository list. 
 
 Project 1: WeSplit - This check divider app takes user input for a dollar amount, number of people, and tip percentage, and displays the check total with tip and amount per person.
+
 https://user-images.githubusercontent.com/91225947/198138538-6e2cc56a-cb3c-4349-9613-b475b7fcbfcf.mov
 
