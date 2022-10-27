@@ -7,7 +7,7 @@
 
 import Foundation
 /*
- //// fucking with strings
+ //// with strings
  
  struct ContentView: View {
      
@@ -50,7 +50,7 @@ import Foundation
      }
  }
  
- /// list shit
+ /// list
  
  struct ContentView: View {
      let people = ["Finn", "Leia", "Luke", "Rey"]
