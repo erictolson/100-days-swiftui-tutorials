@@ -1,5 +1,5 @@
 # 100-days-swiftui-tutorials
-These projects are the result of following Paul Hudson's "100 Days of SwiftUI" tutorial. Please note, these projects were derived from 'follow-along' tutorials and are almost entirely the work of Paul Hudson, modestly customized by myself as part of the tutorial program. See Paul's project files <a href="https://github.com/twostraws/HackingWithSwift/tree/main/SwiftUI" target="_blank">here</a>. For original work that from this program, please see the individual 100 Days of Swift UI 'milestone' projects in my repository list. Below are the project demos on an iPhone 14 Pro simulator.
+These projects are the result of following Paul Hudson's "100 Days of SwiftUI" tutorial. Please note, these projects were derived from 'follow-along' tutorials and are largely the work of Paul Hudson, modestly customized by myself as part of the tutorial program. See Paul's project files <a href="https://github.com/twostraws/HackingWithSwift/tree/main/SwiftUI" target="_blank">here</a>. For original work that from this program, please see the individual 100 Days of Swift UI 'milestone' projects in my repository list. Below are the project demos on an iPhone 14 Pro simulator.
 
 <b>Project 1: WeSplit</b> - This check divider app takes user input for a dollar amount, number of people, and tip percentage, and displays the check total with tip and amount per person.
 
@@ -43,4 +43,8 @@ https://user-images.githubusercontent.com/91225947/198151748-d1869b78-fa55-4880-
 <b>Project 11: Bookwarm</b> - This book rating app utilizes CoreData for data persistence. 
 
 https://user-images.githubusercontent.com/91225947/198152593-a39ed5dd-8e78-488a-818b-029ddcb8fe89.mov
+
+<b>Project 13: Instafilter</b> - This photo editing app allows the user to pick images from their library, apply a filter, and save the new image to their library.
+
+https://user-images.githubusercontent.com/91225947/199121139-aebcbd40-11ac-4c18-9f8a-8e8bf13feb73.mov
 
