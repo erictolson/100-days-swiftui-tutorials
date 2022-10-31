@@ -25,14 +25,17 @@ https://user-images.githubusercontent.com/91225947/198148118-b0692ebb-99ac-4d0c-
 
 <br></br>
 
-
 <b>Project 7: iExpense</b> - With this app, a user can track their expenses and the data will persist with @AppStorage.
 
 https://user-images.githubusercontent.com/91225947/198149004-e61f71de-def2-415a-8d71-2ca46788c00b.mov
 
+<br></br>
+
 <b>Project 8: iExpense</b> - This multi-view app utilizes NagivationLink to display json data about Apollo missions.
 
 https://user-images.githubusercontent.com/91225947/198150216-b9e8109c-2f5f-4536-b777-f4696bd74693.mov
+
+<br></br>
 
 <b>Project 10: Cupcake Corner</b> - This cupcake ordering app utilizes Codable and sends/confirms order data to a generic server via POST request.
 
@@ -43,6 +46,8 @@ https://user-images.githubusercontent.com/91225947/198151748-d1869b78-fa55-4880-
 <b>Project 11: Bookwarm</b> - This book rating app utilizes CoreData for data persistence. 
 
 https://user-images.githubusercontent.com/91225947/198152593-a39ed5dd-8e78-488a-818b-029ddcb8fe89.mov
+
+<br></br>
 
 <b>Project 13: Instafilter</b> - This photo editing app allows the user to pick images from their library, apply a filter, and save the new image to their library.
 
