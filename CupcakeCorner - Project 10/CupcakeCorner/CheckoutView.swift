@@ -21,10 +21,12 @@ struct CheckoutView: View {
                         image
                             .resizable()
                             .scaledToFit()
+                            .accessibilityHidden(true)
                 } placeholder: {
                     ProgressView()
                 }
                 .frame(height: 233)
+                .accessibilityHidden(true)
 
                 Text("Your total is \(order.cost, format: .currency(code: "USD"))")
                     .font(.title)
@@ -60,11 +62,11 @@ struct CheckoutView: View {
         let url = URL(string: "https://reqres.in/api/cupcakes")!
         var request = URLRequest(url: url)
         request.setValue("application/json", forHTTPHeaderField: "Content-Type")
-        //request.httpMethod = "POST"
+        request.httpMethod = "POST"
         
         do {
             guard let (data, _) = try? await URLSession.shared.upload(for: request, from: encoded) else {
-                noInternetMessage = "No fucking internet retard"
+                noInternetMessage = "No internet!"
                 noInternetConfirmation = true
                 return
             }
