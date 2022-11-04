@@ -30,8 +30,11 @@ struct ContentView: View {
                         Text(item.amount, format: localCurrency)
                             .foregroundColor(item.amount <= 50 ? .green : .red)
                     }
+                    .accessibilityLabel(item.name)
+                    .accessibilityHint(item.type)
                 }
                 .onDelete(perform: removeItems)
+
             }
             .navigationTitle("iExpense")
             .toolbar{
