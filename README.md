@@ -53,3 +53,17 @@ https://user-images.githubusercontent.com/91225947/198152593-a39ed5dd-8e78-488a-
 
 https://user-images.githubusercontent.com/91225947/199121139-aebcbd40-11ac-4c18-9f8a-8e8bf13feb73.mov
 
+<br></br>
+
+<b>Project 14: BucketList</b> This app utilizies MapKit and FileDirectory to save and describe pin points on a map. The location details view calls a Wikipedia API to load information about nearby attractions.
+
+https://user-images.githubusercontent.com/91225947/200697363-40042b14-2dc9-4153-8e3f-7b17242b5216.mov
+
+<br></br>
+
+<b>Project 16: HotProspects</b> This networking app allows users to creat their own QR code based on their name and email. They can scan other users'(prospects) QR codes and label their information as 'contacted' or 'uncontacted'. The user can also sort the individual prospect lists and even set a notification to contact 'uncontacted prospects'. The data is persisted local using FileDirectory.
+
+https://user-images.githubusercontent.com/91225947/200697696-effee4a2-a28a-4c1b-ae96-978c9280b088.mov
+
+
+
