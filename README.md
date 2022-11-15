@@ -72,3 +72,12 @@ https://user-images.githubusercontent.com/91225947/200697696-effee4a2-a28a-4c1b-
 https://user-images.githubusercontent.com/91225947/202049303-2a110117-d5e3-4264-a5b7-573451d5970c.mov
 
 
+<br></br>
+
+<b>Project 19: SnowSeeker</b> In this app, users can search and sort from a list of ski resorts. They can also select individual resorts and learn more about them or add them to list of favorites. This app is optimized for both wide and narrow views (iPhones and iPads). 
+
+https://user-images.githubusercontent.com/91225947/202049647-1f43af28-4637-4ca2-be8a-b503a25fcdb9.mov
+
+
+https://user-images.githubusercontent.com/91225947/202049652-6674bdd7-0da4-4094-a503-1479d8b77669.mov
+
