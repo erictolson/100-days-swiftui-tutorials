@@ -65,5 +65,10 @@ https://user-images.githubusercontent.com/91225947/200697363-40042b14-2dc9-4153-
 
 https://user-images.githubusercontent.com/91225947/200697696-effee4a2-a28a-4c1b-ae96-978c9280b088.mov
 
+<br></br>
+
+<b>Project 17: Flashzilla</b> This flashcard app works in a wide view and users can swipe from a deck of flash cards either left or right(wrong or right). There is also a timer that will pause when the app is in background and prohibit swiping when it is finished. Finally, users can add and remove cards from the deck.
+
+https://user-images.githubusercontent.com/91225947/202049303-2a110117-d5e3-4264-a5b7-573451d5970c.mov
 
 
